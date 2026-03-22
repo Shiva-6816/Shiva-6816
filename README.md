@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B+I'm+Aroori+Shiva+Prasad;Java+%7C+Spring+Boot+%7C+Backend+Developer;Python+%7C+Data+Science+Explorer+%F0%9F%90%8D;B.Tech+EEE+%7C+Java+Intern+%40+Techplement;Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;Open+to+Work+%E2%80%94+Let%27s+Connect+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B+I'm+Aroori+Shiva+Prasad;Java+Full+Stack+%7C+Backend+Developer;Python+%7C+Data+Science+%F0%9F%90%8D;B.Tech+EEE+%7C+Certified+in+Java+%26+Data+Science;Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;Open+to+Work+%E2%80%94+Let%27s+Connect+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -7,7 +7,7 @@
   &nbsp;
   <img src="https://img.shields.io/badge/%F0%9F%9F%A2%20Open%20to%20Work-Actively%20Seeking-2ea44f?style=flat-square"/>
   &nbsp;
-  <img src="https://img.shields.io/badge/Focus-Java%20Backend%20%2B%20Data%20Science-61dafb?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Java%20Full%20Stack%20%2B%20Data%20Science-61dafb?style=flat-square"/>
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Hyderabad%2C%20India-0078d4?style=flat-square"/>
 </p>
@@ -18,34 +18,33 @@
 
 ```yaml
 Name        : Aroori Shiva Prasad
-Role        : Java Backend Developer + Data Science Explorer
+Role        : Java Full Stack Developer + Data Science Explorer
 Education   : B.Tech — Electrical & Electronics Engineering (2024)
 College     : Nalla Malla Reddy Engineering College
-Experience  : Java Developer Intern @ Techplement
-Certification: Java Developer Internship | Data Science & Python
+Certified   : Java Full Stack Development | Data Science & Python
 Location    : Hyderabad, India
 LinkedIn    : linkedin.com/in/shivaprasadaroori
 Email       : aroorishivaprasad@gmail.com
-Status      : 🟢 Actively seeking roles in Backend Dev / Data Science
+Status      : 🟢 Actively seeking roles in Java Full Stack / Data Science
 ```
 
-> ⚙️ I build **scalable Java applications** using Spring Boot, Hibernate, and RESTful APIs with hands-on internship experience at Techplement.
+> ⚙️ I build **scalable Java full-stack applications** using Spring Boot, Hibernate, Servlets, JSP and RESTful APIs.
 >
-> 🐍 I'm expanding into **Data Science & Analytics** with Python, Pandas, NumPy, Seaborn, Matplotlib and Power BI.
+> 🐍 I analyse and visualise data using **Python, Pandas, NumPy, Seaborn, Matplotlib** and build reports with **Power BI**.
 >
-> 🎯 My target: **Backend Dev, Full-Stack Java, or Data-facing roles** where I can ship real, working software from Day 1.
+> 🎯 My target: **Java Full Stack, Backend Dev, or Data-facing roles** where I can ship real working software from Day 1.
 
 ---
 
 ## 🏅 Education & Certifications
 
 <p align="left">
-  <img src="https://img.shields.io/badge/B.Tech-Electrical%20%26%20Electronics%20Engg%20(2024)-0078D4?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Internship-Java%20Developer%20%40%20Techplement-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/B.Tech-Electrical%20%26%20Electronics%20Engg%20%7C%202024-0078D4?style=for-the-badge&logo=graduation-cap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Certified-Java%20Full%20Stack%20Development-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Certified-Data%20Science%20%26%20Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-🏫 **Nalla Malla Reddy Engineering College** — B.Tech in EEE, 2024
+🏫 **Nalla Malla Reddy Engineering College** — B.Tech in Electrical & Electronics Engineering, 2024
 
 ---
 
@@ -105,15 +104,13 @@ Status      : 🟢 Actively seeking roles in Backend Dev / Data Science
 
 ---
 
-## 💼 Experience
+## 📜 Certifications
 
-### Java Developer Intern — Techplement
-> 🗓️ Feb 2025 · Internship
+### ☕ Java Full Stack Development
+> Comprehensive training in end-to-end Java application development covering Core Java, J2EE, Spring Boot, Hibernate, REST APIs, HTML, CSS, Servlets & JSP.
 
-- 🔧 Developed and maintained **Java-based applications** using Spring Boot and Hibernate
-- 🌐 Implemented **RESTful web services** for data exchange between frontend and backend
-- 🗄️ Utilized **JDBC** for efficient database interaction and transaction management
-- 🤝 Collaborated with team to optimize **application performance** and debug production issues
+### 🐍 Data Science & Python
+> Hands-on training in Python programming for Data Science — NumPy, Pandas, Matplotlib, Seaborn, data cleaning, EDA, and Power BI reporting.
 
 ---
 
@@ -121,10 +118,10 @@ Status      : 🟢 Actively seeking roles in Backend Dev / Data Science
 
 | 🔗 Project | 📝 Description | 🛠 Stack |
 |---|---|---|
-| ✈️ **Flight Management System** | Java app to manage flight bookings & schedules — backend logic with Spring Boot, Hibernate, RESTful APIs | Java · Spring Boot · Hibernate · MySQL |
-| 🧠 **Quiz Generator** | Quiz generation system with efficient DB schema for storing questions and scores | Java · JDBC · SQL |
-| [🔗 TECHPLEMENT Internship](https://github.com/Shiva-6816/TECHPLEMENT) | Real-world deliverables from Feb 2025 Java Internship program | Java |
-| [🔗 JDBC Day 1 → Day 3](https://github.com/Shiva-6816/jdbc_day1) | Structured day-by-day JDBC mastery — basics to advanced | Java · JDBC |
+| ✈️ **Flight Management System** | Java app to manage flight bookings & schedules — Spring Boot, Hibernate, RESTful APIs, MySQL | Java · Spring Boot · Hibernate · MySQL |
+| 🧠 **Quiz Generator** | Quiz system with efficient DB schema for storing questions and scores | Java · JDBC · SQL |
+| [🔗 JDBC Complete Project](https://github.com/Shiva-6816/jdbc_complete_project) | End-to-end JDBC with CRUD operations, transactions & connection pooling | Java · MySQL |
+| [🔗 JDBC Day 1 → Day 3](https://github.com/Shiva-6816/jdbc_day1) | Structured day-by-day JDBC mastery — basics to advanced queries | Java · JDBC |
 
 > 🔨 **Coming soon** — Python EDA projects · Spring Boot REST APIs · Power BI dashboards
 
@@ -134,7 +131,7 @@ Status      : 🟢 Actively seeking roles in Backend Dev / Data Science
 
 | Domain | Skills |
 |--------|--------|
-| ⚙️ **Backend Dev** | Java (J2EE) · Spring Boot · Hibernate · REST APIs · Servlets · JSP |
+| ⚙️ **Java Full Stack** | Java (J2EE) · Spring Boot · Hibernate · REST APIs · Servlets · JSP |
 | 🗄️ **Databases** | MySQL · Oracle 10g · SQL Server (SSMS) · JDBC · Query Optimisation |
 | 📊 **Data Science** | Python · Pandas · NumPy · Seaborn · Matplotlib · Power BI |
 | 🌐 **Web Tech** | HTML · CSS · JSP · Servlets |
@@ -183,8 +180,8 @@ Status      : 🟢 Actively seeking roles in Backend Dev / Data Science
   <a href="https://github.com/Shiva-6816" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Shiva--6816-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="tel:+917286820840">
-    <img src="https://img.shields.io/badge/Phone-%2B91%207286820840-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+  <a href="tel:+919000548468">
+    <img src="https://img.shields.io/badge/Phone-%2B91%209000548468-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </p>
 
@@ -196,5 +193,5 @@ Status      : 🟢 Actively seeking roles in Backend Dev / Data Science
 
 <p align="center">
   <b>"Building scalable systems today, solving bigger problems tomorrow." ⚙️🚀</b><br/>
-  <sub>Aroori Shiva Prasad &nbsp;·&nbsp; B.Tech EEE (2024) &nbsp;·&nbsp; Java Intern @ Techplement &nbsp;·&nbsp; Hyderabad, India</sub>
+  <sub>Aroori Shiva Prasad &nbsp;·&nbsp; B.Tech EEE (2024) &nbsp;·&nbsp; Certified Java Full Stack &nbsp;·&nbsp; Certified Data Science &nbsp;·&nbsp; Hyderabad, India</sub>
 </p>
