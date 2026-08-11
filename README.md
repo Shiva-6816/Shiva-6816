@@ -25,7 +25,7 @@ Certified   : Java Full Stack Development | Data Science & Python
 Location    : Hyderabad, India
 LinkedIn    : linkedin.com/in/shivaprasadaroori
 Email       : aroorishivaprasad@gmail.com
-Status      : 🟢 Actively seeking roles in Java Full Stack / Data Science
+Status      : 🟢 Actively seeking roles in Data Analyst/ Data Science/ SQL Developer/ IT Administration  
 ```
 
 > ⚙️ I build **scalable Java full-stack applications** using Spring Boot, Hibernate, Servlets, JSP and RESTful APIs.
@@ -116,14 +116,13 @@ Status      : 🟢 Actively seeking roles in Java Full Stack / Data Science
 
 ## 📂 Featured Projects
 
-| 🔗 Project | 📝 Description | 🛠 Stack |
-|---|---|---|
-| ✈️ **Flight Management System** | Java app to manage flight bookings & schedules — Spring Boot, Hibernate, RESTful APIs, MySQL | Java · Spring Boot · Hibernate · MySQL |
-| 🧠 **Quiz Generator** | Quiz system with efficient DB schema for storing questions and scores | Java · JDBC · SQL |
-| [🔗 JDBC Complete Project](https://github.com/Shiva-6816/jdbc_complete_project) | End-to-end JDBC with CRUD operations, transactions & connection pooling | Java · MySQL |
-| [🔗 JDBC Day 1 → Day 3](https://github.com/Shiva-6816/jdbc_day1) | Structured day-by-day JDBC mastery — basics to advanced queries | Java · JDBC |
+| 🔗 Project | 📝 Description | 🛠 Stack | Code |
+|---|---|---|---|
+| ✈️ **Flight Management System** | Java app to manage flight bookings & schedules — Spring Boot, Hibernate, RESTful APIs, MySQL | Java · Spring Boot · Hibernate MySQL |[Flight Management System](https://github.com/Shiva-6816/Flight-Management-System.git)|
+| 🧠 **Quiz Generator** | Quiz system with efficient DB schema for storing questions and scores | Java · JDBC · SQL |[Quiz Generator](https://github.com/Shiva-6816/TECHPLEMENT.git)|
 
-> 🔨 **Coming soon** — Python EDA projects · Spring Boot REST APIs · Power BI dashboards
+
+> 🔨 **Coming soon** — Python EDA projects · Power BI dashboards
 
 ---
 
