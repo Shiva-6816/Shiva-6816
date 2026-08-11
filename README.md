@@ -117,8 +117,9 @@ Status      : 🟢 Actively seeking roles in Data Analyst/ Data Science/ SQL Dev
 
 | 🔗 Project | 📝 Description | 🛠 Stack | Code |
 |---|---|---|---|
-| ✈️ **Flight Management System** | Java app to manage flight bookings & schedules — Spring Boot, Hibernate, RESTful APIs, MySQL | Java · Spring Boot · Hibernate MySQL |[Flight Management System](https://github.com/Shiva-6816/Flight-Management-System.git)|
-| 🧠 **Quiz Generator** | Quiz system with efficient DB schema for storing questions and scores | Java · JDBC · SQL |[Quiz Generator](https://github.com/Shiva-6816/TECHPLEMENT.git)|
+| 🏥 **Hospital Emergency Room Analysis Dashboard** | End-to-end Excel analytics dashboard for Hospital Emergency Room data. Cleaned and transformed raw data using Power Query, created a Date/Calendar model, and built interactive KPIs, Pivot Charts, slicers, and hyperlink-based navigation to analyze patient volume, wait times, satisfaction, admissions, demographics, and department referrals. | Excel · Power Query · Data Model · PivotTables · Pivot Charts · Slicers | [Hospital Emergency Room Analysis](https://github.com/Shiva-6816/Hospital-Emergency-Room-Analysis.git) |
+| ✈️ **Flight Management System** | Java application for managing flight bookings and schedules using Spring Boot, Hibernate, RESTful APIs, and MySQL. | Java · Spring Boot · Hibernate · MySQL | [Flight Management System](https://github.com/Shiva-6816/Flight-Management-System.git) |
+| 🧠 **Quiz Generator** | Quiz application with a database-driven system for storing questions and scores. | Java · JDBC · SQL | [Quiz Generator](https://github.com/Shiva-6816/TECHPLEMENT.git) |
 
 
 > 🔨 **Coming soon** — Python EDA projects · Power BI dashboards
