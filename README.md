@@ -1,7 +1,6 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B+I'm+Aroori+Shiva+Prasad;Data Analyst+%7C+Backend+Developer;Python+%7C+Data+Science+%F0%9F%90%8D;B.Tech+EEE+%7C+Certified+in+Java+%26+Data+Science;Building+Scalable+Systems+%E2%9A%99%EF%B8%8F;Open+to+Work+%E2%80%94+Let%27s+Connect+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=2800&pause=900&color=61DAFB&center=true&vCenter=true&width=780&lines=Hi+%F0%9F%91%8B+I'm+Aroori+Shiva+Prasad;Data+Analyst+%7C+Backend+Developer;Python+%7C+Data+Science+%F0%9F%90%8D;B.Tech+EEE+%7C+Certified+in+Java+%26+Data+Science;Building+Scalable+Systems+%E2%9A%A1%EF%B8%8F;Open+to+Work+%E2%80%94+Let's+Connect+%F0%9F%9A%80" alt="Typing SVG" />
 </h1>
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shiva-6816&label=Profile+Views&color=61dafb&style=flat-square"/>
   &nbsp;
