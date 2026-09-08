@@ -15,7 +15,7 @@
 
 ```yaml
 Name        : Aroori Shiva Prasad
-Role        : Java Full Stack Developer + Data Science Explorer
+Role        : Data Engineer | Data Analyst | Data Scientist | SQL Developer + related 
 Education   : B.Tech — Electrical & Electronics Engineering (2024)
 College     : Nalla Malla Reddy Engineering College
 Certified   : Java Full Stack Development | Data Science & Python
